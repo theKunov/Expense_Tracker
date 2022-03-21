@@ -1,1 +1,1 @@
-# Expense_Tracker
+Expense Tracking Application written in React. 
